@@ -1,7 +1,7 @@
 # sasehacks_26
 Submission for SASEHacks 2026
 
-<a href="https://www.roblox.com/games/117311249924701/SASEHacks-2026">Link to Roblox Game</a>
+<a href="https://www.roblox.com/games/96774169196016/space-buddies">Link to Roblox Game</a>
 
 ## Controls:
 - M1 (left click) for forward kick
